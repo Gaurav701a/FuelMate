@@ -16,7 +16,12 @@ This is a simple C++ program for managing a petrol pump's daily operations. It a
 
 ## How to Run
 
-1. Compile the program using a C++ compiler (e.g., g++).
+1. Compile the program using a C++ turbo compiler (e.g., g++).
+   
+2. Run the program.
    
    ```bash
-   g++ petropump.cpp -o petropump
+   ./petropump
+
+   
+3. Follow the on-screen instructions to interact with the program.
